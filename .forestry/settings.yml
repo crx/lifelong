@@ -54,6 +54,11 @@ sections:
   label: Site Menus
   templates:
   - site_menus
+- type: directory
+  path: static/assets/css
+  label: Styles
+  create: all
+  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
