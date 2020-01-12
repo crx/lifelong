@@ -5,8 +5,8 @@ sections:
   template: intro
   content: Finally, a podcast about **adult** education.
   actions:
-  - label: Get Started
-    url: "/generic"
+  - label: Subscribe Now
+    url: https://apps.apple.com/us/app/apple-podcasts/id525463029
     is_scrolly: false
     is_primary: false
   title: Lifelong Podcast
