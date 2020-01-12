@@ -57,7 +57,7 @@ sections:
 - type: directory
   path: static/assets/css
   label: Styles
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: static/images
 public_path: "/images"
